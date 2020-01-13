@@ -8,11 +8,6 @@
         <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
     </div>
 
-<h2>Hello from machine <%=Environment.MachineName %></h2>
-<h2>Built using Web Deploy v4.0</h2>
-<p>Source code version 2019-10-02-v4 15:24 - changes checked into CodeCommit and deployed via CodePipeline</p>
-<p>Change: removed the web deploy install step from buildspec to see what happens!</p>
-
     <div class="row">
         <div class="col-md-4">
             <h2>Getting started</h2>
