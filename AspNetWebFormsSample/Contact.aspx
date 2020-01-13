@@ -12,16 +12,16 @@
         425.555.0100
     </address>
 
-    TestKey = 
+    <b>TestKey</b> = 
     <%=(ConfigurationManager.AppSettings["TestKey"]) %>
-    <br />
-    TwitterKey = 
+    <br /><br />
+    <b>TwitterKey</b> = 
     <%=(WebConfigurationManager.AppSettings["TwitterKey"]) %>
-    <br />
-    ConnectionString = 
+    <br /><br />
+    <b>ConnectionString</b> = 
     <%=(ConfigurationManager.ConnectionStrings["DefaultConnection"]) %>
 
-
+    <hr  />
     <address>
         <strong>Support:</strong>   <a href="mailto:Support@example.com">Support@example.com</a><br />
         <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">Marketing@example.com</a>
