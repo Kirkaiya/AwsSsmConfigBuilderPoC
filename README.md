@@ -3,7 +3,7 @@
 **Description**
 
 A simple Proof of Concept (PoC) for ConfigurationBuilder that reads from AWS SSM Parameter Store. 
-This is a PoC - there are not unit tests, it's not load tested, use as the basis for a solution at your own risk!!
+This is a PoC - there are no unit tests, it's not load tested, use as the basis for a solution at your own risk!!
 
 ### Before trying to run the demo, make note of the following:
 
